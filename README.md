@@ -1,10 +1,10 @@
-#Merge Ruby Implementation
+# Merge Ruby Implementation
 
-##Specs
+## Specs
 
 `#merge` merges two sorted arrays
 
-##Steps
+## Steps
 
 * Recall how `merge` works
 * **Pseudocode before writing any Ruby**
